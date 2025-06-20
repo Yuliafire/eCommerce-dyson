@@ -19,6 +19,7 @@ It was built for educational purposes.
 - Code Quality: ESLint, Prettier
 - Git Hooks: Husky
 - Package Manager: npm
+- Swiper JS
 
 ### Prerequisites
 
